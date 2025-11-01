@@ -1,0 +1,1056 @@
+{
+    "topics": [
+        {
+            "name": "Array",
+            "slug": "array",
+            "description": "Linear data structures that store elements of the same type in contiguous memory locations.",
+            "icon": "📊",
+            "questions": [
+                {
+                    "title": "Find First and Last Position of Element in Sorted Array",
+                    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find square root of an integer",
+                    "link": "https://leetcode.com/problems/sqrtx/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Find Peak Element",
+                    "link": "https://leetcode.com/problems/find-peak-element/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find Median of two sorted arrays",
+                    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Single element in a sorted array",
+                    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Program to cyclically rotate an array by one",
+                    "link": "https://leetcode.com/problems/rotate-array/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Maximum sum of i*arr[i] among all rotations of a given array",
+                    "link": "https://leetcode.com/problems/rotate-function/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Rearrange an array such that arr[i] = i",
+                    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Rearrange an array in maximum minimum form",
+                    "link": "https://leetcode.com/problems/wiggle-sort-ii/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "K'th Smallest/Largest Element in Unsorted Array",
+                    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Sort elements by frequency",
+                    "link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Count Inversions in an array",
+                    "link": "https://leetcode.com/problems/reverse-pairs/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Two Pointers Technique",
+                    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Maximum triplet sum in array",
+                    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Print a given matrix in spiral form",
+                    "link": "https://leetcode.com/problems/spiral-matrix/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Maximum path sum in matrix",
+                    "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Rearrange array in alternating positive & negative items with O(1) extra space",
+                    "link": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Rearrange an array in order - smallest, largest, 2nd smallest, 2nd largest",
+                    "link": "https://www.geeksforgeeks.org/rearrange-array-order-smallest-largest-2nd-smallest-2nd-largest/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Kth smallest element in a row-wise and column-wise sorted 2D array",
+                    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find the smallest missing number",
+                    "link": "https://leetcode.com/problems/first-missing-positive/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Minimum number of jumps to reach end",
+                    "link": "https://leetcode.com/problems/jump-game-ii/",
+                    "difficulty": "Medium"
+                }
+            ]
+        },
+        {
+            "name": "LinkedList",
+            "slug": "linkedlist",
+            "description": "Linear data structures where elements are stored in nodes with references to the next node.",
+            "icon": "🔗",
+            "questions": [
+                {
+                    "title": "Reverse a Linked List",
+                    "link": "https://leetcode.com/problems/reverse-linked-list/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Reverse Nodes in k-Group",
+                    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Reverse Alternate K Nodes of Linked List",
+                    "link": "https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Print the Reverse of a Linked List Without Actually Reversing It",
+                    "link": "https://www.geeksforgeeks.org/print-reverse-of-a-linked-list-without-actually-reversing/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Middle of the Linked List",
+                    "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Linked List Cycle",
+                    "link": "https://leetcode.com/problems/linked-list-cycle/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Linked List Cycle II",
+                    "link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find the Length of a Loop in a Linked List",
+                    "link": "https://www.geeksforgeeks.org/find-length-of-loop-in-linked-list/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Remove Nth Node From End of List",
+                    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Swap Nodes in Pairs",
+                    "link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Rotate List",
+                    "link": "https://leetcode.com/problems/rotate-list/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Palindrome Linked List",
+                    "link": "https://leetcode.com/problems/palindrome-linked-list/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Intersection of Two Linked Lists",
+                    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Find Intersection of Two Sorted Linked Lists",
+                    "link": "https://www.geeksforgeeks.org/intersection-of-two-sorted-linked-lists/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Merge Two Sorted Lists",
+                    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Add Two Numbers",
+                    "link": "https://leetcode.com/problems/add-two-numbers/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Flatten a Multilevel Doubly Linked List",
+                    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+                    "difficulty": "Medium"
+                }
+            ]
+        },
+        {
+            "name": "Recursion",
+            "slug": "recursion",
+            "description": "Programming technique where a function calls itself to solve a problem by breaking it down into smaller instances.",
+            "icon": "🔄",
+            "questions": [
+                {
+                    "title": "Given a string, print all possible palindromic partitions",
+                    "link": "https://leetcode.com/problems/palindrome-partitioning/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "All possible binary numbers of length n with equal sum in both halves",
+                    "link": "https://leetcode.com/problems/binary-watch/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Power Set in Lexicographic order",
+                    "link": "https://leetcode.com/problems/subsets/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Print all increasing sequences of length k from first n natural numbers",
+                    "link": "https://leetcode.com/problems/combinations/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Generate all possible sorted arrays from alternate elements of two given sorted arrays",
+                    "link": "https://leetcode.com/problems/merge-sorted-array/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Print alternate nodes of a linked list using recursion",
+                    "link": "https://leetcode.com/problems/linked-list-cycle/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Print all longest common sub-sequences in lexicographical order",
+                    "link": "https://leetcode.com/problems/longest-common-subsequence/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Recursive Tower of Hanoi using 4 pegs/rods",
+                    "link": "https://www.geeksforgeeks.org/recursive-tower-hanoi-using-4-pegs-rods/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Program for Sum of the digits of a given number",
+                    "link": "https://leetcode.com/problems/add-digits/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Print all combinations of factors (Ways to factorize)",
+                    "link": "https://www.geeksforgeeks.org/print-combinations-factors-ways-factorize/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "N Queen in O(n) space",
+                    "link": "https://leetcode.com/problems/n-queens/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Check if a destination is reachable from source with two movements allowed",
+                    "link": "https://www.geeksforgeeks.org/check-destination-reachable-source-two-movements-allowed/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Minimum steps to reach a destination",
+                    "link": "https://leetcode.com/problems/reach-a-number/description/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Mutual Recursion with example of Hofstadter Female and Male sequences",
+                    "link": "https://www.geeksforgeeks.org/mutual-recursion-example-hofstadter-female-male-sequences/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find ways an integer can be expressed as sum of n-th power of unique natural numbers",
+                    "link": "https://www.geeksforgeeks.org/find-ways-integer-can-expressed-sum-n-th-power-unique-natural-numbers/",
+                    "difficulty": "Hard"
+                }
+            ]
+        },
+        {
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "description": "Algorithmic technique that considers searching every possible combination in order to solve a computational problem.",
+            "icon": "🔍",
+            "questions": [
+                {
+                    "title": "Subset Sum | Backtracking-4",
+                    "link": "https://www.geeksforgeeks.org/subset-sum-problem/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Rat in a Maze | Backtracking-2",
+                    "link": "https://www.geeksforgeeks.org/rat-in-a-maze/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "m Coloring Problem | Backtracking-5",
+                    "link": "https://www.geeksforgeeks.org/m-coloring-problem/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "N Queen in O(n) space",
+                    "link": "https://leetcode.com/problems/n-queens/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Remove Invalid Parentheses",
+                    "link": "https://leetcode.com/problems/remove-invalid-parentheses/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Write a program to print all permutations of a given string",
+                    "link": "https://leetcode.com/problems/permutations/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Combinational Sum",
+                    "link": "https://leetcode.com/problems/combination-sum/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Power Set in Lexicographic order",
+                    "link": "https://leetcode.com/problems/subsets/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Word Break Problem using Backtracking",
+                    "link": "https://leetcode.com/problems/word-break-ii/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Print all palindromic partitions of a string",
+                    "link": "https://leetcode.com/problems/palindrome-partitioning/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Tug of War",
+                    "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Warnsdorff's algorithm for Knight's tour problem",
+                    "link": "https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Find paths from corner cell to middle cell in maze",
+                    "link": "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Match a pattern and string without using regular expressions",
+                    "link": "https://leetcode.com/problems/wildcard-matching/",
+                    "difficulty": "Hard"
+                }
+            ]
+        },
+        {
+            "name": "Tree",
+            "questions": [
+                {
+                    "title": "Evaluation of Expression Tree",
+                    "link": "https://leetcode.com/problems/evaluate-boolean-binary-tree/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Write a Program to Find the Maximum Depth or Height of a Tree",
+                    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Print Postorder traversal from given Inorder and Preorder traversals",
+                    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Level order traversal with direction change after every two levels",
+                    "link": "https://www.geeksforgeeks.org/level-order-traversal-direction-change-every-two-levels/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Iterative Postorder Traversal | Set 2 (Using One Stack)",
+                    "link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Convert a given Binary Tree to Doubly Linked List | Set 4",
+                    "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Minimum swap required to convert binary tree to binary search tree",
+                    "link": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)",
+                    "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Check if a Binary Tree contains duplicate subtrees of size 2 or more",
+                    "link": "https://leetcode.com/problems/find-duplicate-subtrees/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Check if a binary tree is subtree of another binary tree | Set 2",
+                    "link": "https://leetcode.com/problems/subtree-of-another-tree/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Maximum sum of nodes in Binary tree such that no two are adjacent",
+                    "link": "https://leetcode.com/problems/house-robber-iii/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Vertical Sum in a given Binary Tree | Set 1",
+                    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Lowest Common Ancestor in a Binary Tree | Set 3 (Using RMQ)",
+                    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Tree Isomorphism Problem",
+                    "link": "https://leetcode.com/problems/same-tree/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Diameter of a Binary Tree in O(n) [A new method]",
+                    "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find All Duplicate Subtrees",
+                    "link": "https://leetcode.com/problems/find-duplicate-subtrees/",
+                    "difficulty": "Hard"
+                }
+            ]
+        },
+        {
+            "name": "BS Tree",
+            "questions": [
+                {
+                    "title": "Binary Search Tree | Set 1 (Search and Insertion)",
+                    "link": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Binary Search Tree | Set 2 (Delete)",
+                    "link": "https://www.geeksforgeeks.org/deletion-in-binary-search-tree/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Convert BST to Min Heap",
+                    "link": "https://www.geeksforgeeks.org/convert-bst-min-heap/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Check if the given array can represent Level Order Traversal of Binary Search Tree",
+                    "link": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "C Program for Red Black Tree Insertion",
+                    "link": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Convert a Binary Tree to Threaded binary tree | Set 2 (Efficient)",
+                    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Sorted order printing of a given array that represents a BST",
+                    "link": "https://leetcode.com/problems/print-binary-tree/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Data Structure for a single resource reservations",
+                    "link": "https://leetcode.com/problems/interval-list-intersections/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Count inversions in an array | Set 2 (Using Self-Balancing BST)",
+                    "link": "https://leetcode.com/problems/count-of-range-sum/",
+                    "difficulty": "Hard"
+                }
+            ]
+        },
+        {
+            "name": "Graph",
+            "questions": [
+                {
+                    "title": "Breadth First Search or BFS for a Graph",
+                    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Depth First Search or DFS for a Graph",
+                    "link": "https://leetcode.com/problems/number-of-islands/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Applications of Depth First Search",
+                    "link": "https://leetcode.com/problems/word-search/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Applications of Breadth First Traversal",
+                    "link": "https://leetcode.com/problems/word-ladder/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Iterative Depth First Traversal of Graph",
+                    "link": "https://www.geeksforgeeks.org/iterative-depth-first-traversal/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "BFS using STL for competitive coding",
+                    "link": "https://www.geeksforgeeks.org/bfs-using-stl-competitive-coding/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Detect Cycle in a Directed Graph",
+                    "link": "https://leetcode.com/problems/course-schedule/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Disjoint Set (Or Union-Find) | Set 1 (Detect Cycle in an Undirected Graph)",
+                    "link": "https://leetcode.com/problems/redundant-connection/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Longest Path in a Directed Acyclic Graph | Set 2",
+                    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "N Queen Problem | Backtracking-3",
+                    "link": "https://leetcode.com/problems/n-queens/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "The Knight's tour problem | Backtracking-1",
+                    "link": "https://leetcode.com/problems/knight-dialer/",
+                    "difficulty": "Hard"
+                }
+            ]
+        },
+        {
+            "name": "Strings",
+            "questions": [
+                {
+                    "title": "Find Minimum and Maximum distinct persons entering or leaving the room",
+                    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Minimum partitions of String such that each part is at most K",
+                    "link": "https://leetcode.com/problems/palindrome-partitioning/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Smallest window containing 0, 1 and 2",
+                    "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Find the Substring with maximum frequency and containing only X and Y",
+                    "link": "https://www.geeksforgeeks.org/find-the-substring-with-maximum-frequency-and-containing-only-x-and-y/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Remove longest prefix of the String which has duplicate substring",
+                    "link": "https://leetcode.com/problems/reorganize-string/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Print all interleavings of given two strings",
+                    "link": "https://leetcode.com/problems/interleaving-string/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Isomorphic Strings",
+                    "link": "https://leetcode.com/problems/isomorphic-strings/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Validate an IP Address",
+                    "link": "https://leetcode.com/problems/validate-ip-address/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Form a palindrome",
+                    "link": "https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find largest word in dictionary",
+                    "link": "https://leetcode.com/problems/longest-word-in-dictionary/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Interleaved Strings",
+                    "link": "https://leetcode.com/problems/interleaving-string/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Print Anagrams Together",
+                    "link": "https://leetcode.com/problems/group-anagrams/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Search Pattern (KMP-Algorithm)",
+                    "link": "https://leetcode.com/problems/implement-strstr/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Distinct palindromic substrings",
+                    "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Minimum number of stops from given path",
+                    "link": "https://www.geeksforgeeks.org/minimum-number-stops-given-path/",
+                    "difficulty": "Medium"
+                }
+            ]
+        },
+        {
+            "name": "Hashing",
+            "questions": [
+                {
+                    "title": "Find whether an array is subset of another array | Added Method 5",
+                    "link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Count maximum points on same line",
+                    "link": "https://leetcode.com/problems/max-points-on-a-line/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Pair with given product | Set 1 (Find if any pair exists)",
+                    "link": "https://leetcode.com/problems/two-sum/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Count pairs from two sorted arrays whose sum is equal to a given value x",
+                    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Find number of Employees Under every Manager",
+                    "link": "https://leetcode.com/problems/employee-importance/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Longest subarray with sum divisible by k",
+                    "link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find the length of largest subarray with 0 sum",
+                    "link": "https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Longest Increasing consecutive subsequence",
+                    "link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find subarray with given sum | Set 2 (Handles Negative Numbers)",
+                    "link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Clone a Binary Tree with Random Pointers",
+                    "link": "https://leetcode.com/problems/clone-graph/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Largest subarray with equal number of 0s and 1s",
+                    "link": "https://leetcode.com/problems/contiguous-array/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Palindrome Substring Queries",
+                    "link": "https://leetcode.com/problems/valid-palindrome-ii/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Cuckoo Hashing - Worst case O(1) Lookup!",
+                    "link": "https://leetcode.com/problems/design-hashmap/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Game of replacing array elements",
+                    "link": "https://leetcode.com/problems/game-of-life/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Recaman's sequence",
+                    "link": "https://leetcode.com/problems/ugly-number/",
+                    "difficulty": "Easy"
+                }
+            ]
+        },
+        {
+            "name": "Dynamic Programming Set-1",
+            "questions": [
+                {
+                    "title": "Program for Fibonacci numbers",
+                    "link": "https://leetcode.com/problems/fibonacci-number/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Count all subsequences having product less than K",
+                    "link": "https://leetcode.com/problems/count-of-subarrays-with-product-less-than-k/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Find number of solutions of a linear equation of n variables",
+                    "link": "https://www.geeksforgeeks.org/find-number-of-solutions-of-a-linear-equation-of-n-variables/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Binomial Coefficient | DP-9",
+                    "link": "https://leetcode.com/problems/pascals-triangle/",
+                    "difficulty": "Easy"
+                },
+                {
+                    "title": "Coin Change | DP-7",
+                    "link": "https://leetcode.com/problems/coin-change/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Printing Items in 0/1 Knapsack",
+                    "link": "https://www.geeksforgeeks.org/printing-items-01-knapsack/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Ugly Numbers",
+                    "link": "https://leetcode.com/problems/ugly-number-ii/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Super Ugly Number (Number whose prime factors are in given set)",
+                    "link": "https://leetcode.com/problems/super-ugly-number/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Program for nth Catalan Number",
+                    "link": "https://leetcode.com/problems/unique-binary-search-trees/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Gold Mine Problem",
+                    "link": "https://www.geeksforgeeks.org/gold-mine-problem/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Cutting a Rod | DP-13",
+                    "link": "https://www.geeksforgeeks.org/cutting-a-rod-dp-13/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Moser-de Bruijn Sequence",
+                    "link": "https://www.geeksforgeeks.org/moser-de-bruijn-sequence/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Longest Common Subsequence | DP-4",
+                    "link": "https://leetcode.com/problems/longest-common-subsequence/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Eulerian Number",
+                    "link": "https://www.geeksforgeeks.org/eulerian-number/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Floyd Warshall Algorithm | DP-16",
+                    "link": "https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/",
+                    "difficulty": "Hard"
+                },
+                {
+                    "title": "Temple Offerings",
+                    "link": "https://www.geeksforgeeks.org/temple-offerings/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Egg Dropping Puzzle | DP-11",
+                    "link": "https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/",
+                    "difficulty": "Medium"
+                },
+                {
+                    "title": "Dice Throw | DP-30",
+                    "link": "https://www.geeksforgeeks.org/dice-throw-dp-30/",
+                    "difficulty": "Medium"
+                }
+            ]
+        },
+  {
+    "name": "Dynamic Programming Set-2",
+    "questions": [
+      {
+        "title": "Word Break Problem | DP-32",
+                    "link": "https://leetcode.com/problems/word-break/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Tile Stacking Problem",
+                    "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Print equal sum sets of array (Partition Problem) | Set 2",
+                    "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Travelling Salesman Problem | Set 1 (Naive and Dynamic Programming)",
+                    "link": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Bitonic Subsequence | DP-15",
+                    "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Weighted Job Scheduling | Set 2 (Using LIS)",
+                    "link": "https://leetcode.com/problems/interval-scheduling-optimization/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Number of paths with exactly k coins",
+                    "link": "https://leetcode.com/problems/unique-paths-iii/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum and Minimum Values of an Algebraic Expression",
+                    "link": "https://leetcode.com/problems/find-the-maximum-and-minimum-values-of-an-algebraic-expression/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Paper Cut into Minimum Number of Squares | Set 2",
+                    "link": "https://leetcode.com/problems/rectangle-area-ii/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Find if string is K-Palindrome or not | Set 2",
+                    "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Check for possible path in 2D matrix",
+                    "link": "https://leetcode.com/problems/unique-paths/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Balanced expressions such that given positions have opening brackets",
+                    "link": "https://leetcode.com/problems/valid-parentheses/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Longest alternating sub-array starting from every index in a Binary Array",
+                    "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Word Wrap Problem | DP-19",
+                    "link": "https://leetcode.com/problems/text-justification/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Mobile Numeric Keypad Problem",
+                    "link": "https://leetcode.com/problems/numeric-keypad/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "The painter's partition problem",
+                    "link": "https://leetcode.com/problems/painter-s-partition-problem/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Matrix Chain Multiplication | DP-8",
+                    "link": "https://leetcode.com/problems/matrix-chain-multiplication/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Geometric Progression",
+                    "link": "https://leetcode.com/problems/longest-arithmetic-sequence/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Dynamic Programming on Trees | Set 2",
+                    "link": "https://leetcode.com/problems/maximum-path-sum-in-binary-tree/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Find all combinations of k-bit numbers with n bits set where 1 <= n <= k in sorted order",
+                    "link": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Boolean Parenthesization Problem | DP-37",
+                    "link": "https://leetcode.com/problems/boolean-evaluation/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Edit Distance | DP-5",
+                    "link": "https://leetcode.com/problems/edit-distance/",
+                    "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "name": "PBC Favorites",
+    "questions": [
+      {
+        "title": "Serialize and Deserialize a Binary Tree",
+                    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1",
+                    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Detect Cycle in a directed graph using colors",
+                    "link": "https://leetcode.com/problems/course-schedule-ii/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Flattening a Linked List",
+                    "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "LRU Cache Implementation",
+                    "link": "https://leetcode.com/problems/lru-cache/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Arrange given numbers to form the biggest number | Set 1",
+                    "link": "https://leetcode.com/problems/largest-number/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Find if array can be divided into two subarrays of equal sum",
+                    "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Diameter of a Binary Tree",
+                    "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Count number of ways to cover a distance",
+                    "link": "https://leetcode.com/problems/unique-paths/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Box Stacking Problem | DP-22",
+                    "link": "https://leetcode.com/problems/box-stacking/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Cutting a Rod | DP-13",
+                    "link": "https://leetcode.com/problems/rod-cutting/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Common Subsequence | DP-4",
+                    "link": "https://leetcode.com/problems/longest-common-subsequence/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Rat in a Maze | Backtracking-2",
+                    "link": "https://leetcode.com/problems/rat-in-a-maze/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Sudoku | Backtracking-7",
+                    "link": "https://leetcode.com/problems/sudoku-solver/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Chocolate Distribution Problem",
+                    "link": "https://leetcode.com/problems/distribute-chocolates/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Kadane's Algorithm",
+                    "link": "https://leetcode.com/problems/maximum-subarray/",
+                    "difficulty": "Easy"
+      },
+      {
+        "title": "Implement Atoi",
+                    "link": "https://leetcode.com/problems/string-to-integer-atoi/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Roman Number to Integer",
+                    "link": "https://leetcode.com/problems/roman-to-integer/",
+                    "difficulty": "Easy"
+      },
+      {
+        "title": "Implement strstr",
+                    "link": "https://leetcode.com/problems/implement-strstr/",
+                    "difficulty": "Medium"
+      },
+      {
+        "title": "Detect Loop in linked list",
+                    "link": "https://leetcode.com/problems/linked-list-cycle/",
+                    "difficulty": "Easy"
+      },
+      {
+        "title": "Given a linked list of 0s, 1s and 2s, sort it.",
+                    "link": "https://leetcode.com/problems/sort-colors/",
+                    "difficulty": "Easy"
+      },
+      {
+        "title": "Circular tour",
+                    "link": "https://leetcode.com/problems/circular-tour/",
+                    "difficulty": "Hard"
+      },
+      {
+        "title": "Rotten Oranges",
+                    "link": "https://leetcode.com/problems/rotting-oranges/",
+                    "difficulty": "Medium"
+      }
+    ]
+  }
+    ]
+}
